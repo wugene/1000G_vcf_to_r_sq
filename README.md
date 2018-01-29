@@ -1,5 +1,5 @@
 # 1000G_vcf_to_r_sq
-<code>
+<pre>
 usage: 1000G_vcf_to_r_sq.py [-h] [-i in-file] [-o out-file] [-r r2-cutoff]
 
 Process 1000G vcf to get R-square values.
@@ -19,4 +19,4 @@ Output
 > head sample_data/output_cutoff0.2
 chr     pos     id      r2
 11      438611  rs188272071     0.9999994
-</code>
+</pre>
